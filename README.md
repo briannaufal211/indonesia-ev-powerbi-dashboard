@@ -481,5 +481,5 @@ Data Analyst / Business Intelligence
 **Tools:** Power BI • DAX • Power Query
 
 - Portfolio: https://briannaufal-portfolio.netlify.app/
-- LinkedIn: add your LinkedIn URL
-- Email: add your professional email
+- LinkedIn: https://www.linkedin.com/in/brian-naufal-1b87771ba
+- Email: brian.naufal5420@gmail.com

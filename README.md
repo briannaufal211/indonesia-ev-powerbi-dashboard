@@ -77,28 +77,7 @@ The dashboard is designed to answer five analytical questions:
 
 # Dashboard Preview
 
-> Add screenshots exported from the final Power BI report to the `screenshots/` folder and keep the filenames below.
-
-### Executive Overview
-
-![Executive Overview](screenshots/dashboard-overview.png)
-
-### Market Analysis
-
-![Market Analysis](screenshots/market-analysis.png)
-
-### Vehicle Analysis
-
-![Vehicle Analysis](screenshots/vehicle-analysis.png)
-
-### Budget Simulation
-
-![Budget Simulation](screenshots/budget-simulation.png)
-
-### Business Insight
-
-![Business Insight](screenshots/business-insight.png)
-
+The dashboard screenshots are available in the `screenshots/` folder.
 ---
 
 ## Key Dashboard Capabilities
